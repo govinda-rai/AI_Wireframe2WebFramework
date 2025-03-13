@@ -1,0 +1,2 @@
+yolo_model/yolov8x.pt filter=lfs diff=lfs merge=lfs -text
+yolo_model/yolov5x-seg.pt filter=lfs diff=lfs merge=lfs -text

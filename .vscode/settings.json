@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./wireframe_comparator", "./tests"
+    ]
+}

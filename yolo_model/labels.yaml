@@ -1,0 +1,7 @@
+# Placeholder for labels.yaml
+names:
+  0: button
+  1: header
+  2: image
+  3: text
+  4: input_field

@@ -1,0 +1,9 @@
+# Placeholder for requirements.txt
+opencv-python
+selenium
+keras-unet
+ultralytics
+torch
+torchvision
+numpy
+json5
