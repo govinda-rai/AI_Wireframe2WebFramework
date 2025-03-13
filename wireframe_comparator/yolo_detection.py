@@ -4,7 +4,7 @@ import numpy as np
 from ultralytics import YOLO  # ✅ Use Ultralytics YOLO API
 
 class YoloDetector:
-    def __init__(self, model_path="yolo_model/yolov8x.pt", confidence_threshold=0.5):
+    def __init__(self, model_path="C:\\Users\\govindarai\\OneDrive - Nagarro\\Documents\\yolov8x.pt", confidence_threshold=0.5):
         # ✅ Load YOLO model directly using Ultralytics
         self.model = YOLO(model_path)
         self.confidence_threshold = confidence_threshold
